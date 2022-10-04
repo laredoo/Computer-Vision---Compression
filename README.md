@@ -1,1 +1,1 @@
-# Computer-Vision---Compression
+# Computer-Vision - Compression
